@@ -4,7 +4,7 @@ This repository contains a fully automated **meeting room booking workflow** bui
 
 ---
 
-![Workflow Screenshot](./workflow-screenshot.png)
+![Workflow Screenshot](./workflow.PNG)
 
 ---
 
@@ -83,16 +83,12 @@ Book a meeting room on July 30th from 2 PM to 3 PM.
 
 ```
 n8n-meeting-room-booking/
-├── meeting_room_booking_workflow_scrubbed.json
-├── workflow-screenshot.png
+├── Event_schedular_main.json
+├── workflow.PNG
 ├── README.md
 ```
 
 ---
-
-## 👩‍💻 Created By
-
-**Prerna Kosta**  
 Built with ❤️ using [n8n](https://n8n.io) and [OpenAI](https://platform.openai.com)
 
 ---
