@@ -1,4 +1,4 @@
-# 📅 AI-Powered Meeting Room Booking Workflow (n8n)
+# 📅 AI-Powered Event Schedular(Meeting Room Booking Workflow) (n8n)
 
 This repository contains a fully automated **meeting room booking workflow** built using [n8n](https://n8n.io/), powered by OpenAI and integrated with Slack, Gmail, and Google Calendar.
 
